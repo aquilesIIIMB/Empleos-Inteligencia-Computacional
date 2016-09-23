@@ -15,7 +15,7 @@ Recopilacion de datos y contactos para practicas, trabajos e investigacion.
 [http://captaxion.com/](Capta Axion)
 * Procesamiento de Imagenes
 
-## 3. Orand (Chlena)
+## 3. Orand (Chilena)
 ![Orand](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSx0AWBSclJV3DUpgGZPlOhXKY2_DWjfDpO-ujC1Q1d234fl6QecQ)
 
 [http://www.orand.cl/](Orand S.A.)
